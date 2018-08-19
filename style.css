@@ -13,9 +13,7 @@ header
 {
   float:right;
   list-style: none;
-  margin-top: 55px;
-  margin-left: 150px;
-  margin-right: 250px;
+
 }
 
 .main-nav li
@@ -43,19 +41,24 @@ header
 
 .dream
 {
-  position: absolute;
   width: 1200px;
-  margin-left: 0px;
-  margin-top: 0px;
   font-family: 'Montserrat';
+}
+
+.row
+{
+  max-width: 1200px;
+  margin-top: 55px;
+  margin-left: 150px;
+  margin-right: 250px;
 }
 
 h1
 {
   text-shadow: -0.06em 0 #E91E63, 0.06em 0 #18FFFF;
-  color: black;
   font-size: 35px;
-  margin-top: 142px;
+  margin-top: 12px;
   margin-left: 250px;
   margin-right: 150px;
+
 }
